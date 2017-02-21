@@ -2,6 +2,7 @@
 ## create a virtual environment:
 
 virtualenv mezzanine_env
+
 cd         mezzanine_env
 
 ## Activate it:
